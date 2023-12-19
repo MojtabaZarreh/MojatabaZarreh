@@ -5,3 +5,7 @@ A passionate software engineering student with a solid background in back-end pr
 Committed to creating innovative solutions that bridge the gap between advanced technology and real-world challenges, I am enthusiastic about contributing to projects that push the boundaries of AI's potential. With a foundation in back-end development (PHP), I am now guiding my skills towards the complexities of machine learning algorithms and deep learning models.
 
 I am eager to collaborate and learn from fellow enthusiasts, challenging myself through participation in various competitions. I am on a mission to uncover the mysteries of artificial intelligence and create meaningful impact through intelligent systems. Join me on this exhilarating journey as we unlock hidden patterns in data and translate them into practical insights for improvement and beyond.
+
+- The third place in the national artificial intelligence competition of Amirkabir University of Technology (AAIC).
+- Among the top five teams of artificial intelligence competition of Amirkabir University of Technology in Hamrahe Aval company's chatbots challenge.
+- The fourth team of the country's annual artificial intelligence competition (IAAA) in the challenge of diagnosing the need for dental surgery in OPG modality.
