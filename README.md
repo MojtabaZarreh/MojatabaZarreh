@@ -1,4 +1,4 @@
-# Hi, im Mojtaba
+# Hi, im Mojtaba ✌️
 
 A passionate software engineering student with a solid background in back-end programming, embarking on an exciting new journey into the captivating world of machine learning and artificial intelligence. Leveraging my programming expertise, I am currently diving into the realm of medical image processing and machine learning, exploring the intricate intersections of technology.
 
